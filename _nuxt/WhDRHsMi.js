@@ -1,0 +1,1 @@
+import{d as t,t as a,v as n,R as o}from"./HHXfyhNm.js";const r={class:"leading-normal tracking-normal text-white bg-black font-Rampart"},d=t({__name:"default",setup(s){return(e,l)=>(n(),a("div",r,[o(e.$slots,"default")]))}});export{d as default};
